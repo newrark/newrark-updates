@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "url": "",
+  "rollback": false,
+  "rollback_version": "",
+  "changelog": "Versão inicial",
+  "blocked_serials": [],
+  "rollback_serials": []
+}
