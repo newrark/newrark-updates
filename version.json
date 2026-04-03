@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "url": "",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v1.0/Newrark_Setup.exe",
   "rollback": false,
   "rollback_version": "",
-  "changelog": "Versão inicial",
+  "rollback_serials": [],
   "blocked_serials": [],
-  "rollback_serials": []
+  "changelog": "Versao inicial do Newrark"
 }
