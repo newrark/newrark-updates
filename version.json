@@ -5,5 +5,6 @@
   "rollback_version": "",
   "rollback_serials": [],
   "blocked_serials": [],
+  "force_update_serials": [],
   "changelog": "Versao inicial do Newrark"
 }
