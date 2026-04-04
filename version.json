@@ -1,27 +1,10 @@
 {
   "version": "1.1",
   "url": "https://github.com/newrark/newrark-updates/releases/download/v1.1/Newrark_Setup.exe",
-  "rollback": true,
+  "rollback": false,
   "rollback_version": "1.0",
   "rollback_url": "",
-  "rollback_serials": [
-    {
-      "serial": "NWRK-3ED2-CDDB-ADA9-4427",
-      "version": "1.0"
-    },
-    {
-      "serial": "NWRK-FA92-443F-893D-C8AF",
-      "version": "1.0"
-    },
-    {
-      "serial": "NWRK-A796-BE96-9C2F-D243",
-      "version": "1.0"
-    },
-    {
-      "serial": "NWRK-AEB7-D2D9-DACB-54A5",
-      "version": "1.0"
-    }
-  ],
+  "rollback_serials": [],
   "blocked_serials": [],
   "force_update_serials": [],
   "released_serials": [],
