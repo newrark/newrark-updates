@@ -7,7 +7,12 @@
   "rollback_serials": [],
   "blocked_serials": [],
   "force_update_serials": [],
-  "released_serials": [],
+  "released_serials": [
+    "NWRK-3ED2-CDDB-ADA9-4427",
+    "NWRK-FA92-443F-893D-C8AF",
+    "NWRK-A796-BE96-9C2F-D243",
+    "NWRK-AEB7-D2D9-DACB-54A5"
+  ],
   "release_all": false,
   "changelog": "Melhorias no painel administrativo e correcoes de bugs",
   "staged_version": "1.1",
