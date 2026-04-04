@@ -9,5 +9,8 @@
   "force_update_serials": [],
   "released_serials": [],
   "release_all": false,
-  "changelog": "Melhorias no painel administrativo e correcoes de bugs"
+  "changelog": "Melhorias no painel administrativo e correcoes de bugs",
+  "staged_version": "1.1",
+  "staged_url": "https://github.com/newrark/newrark-updates/releases/download/v1.1/Newrark_Setup.exe",
+  "staged_changelog": "Resoluções de Falhas Sistemicas"
 }
