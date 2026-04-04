@@ -3,8 +3,23 @@
   "url": "https://github.com/newrark/newrark-updates/releases/download/v1.1/Newrark_Setup.exe",
   "rollback": false,
   "rollback_version": "1.0",
-  "rollback_serials": [],
+  "rollback_serials": [
+    {
+      "serial": "NWRK-3ED2-CDDB-ADA9-4427",
+      "version": "1.0"
+    }
+  ],
   "blocked_serials": [],
   "force_update_serials": [],
-  "changelog": "Melhorias no painel administrativo e correcoes de bugs"
+  "released_serials": [
+    "NWRK-3ED2-CDDB-ADA9-4427",
+    "NWRK-FA92-443F-893D-C8AF",
+    "NWRK-A796-BE96-9C2F-D243",
+    "NWRK-AEB7-D2D9-DACB-54A5"
+  ],
+  "release_all": false,
+  "changelog": "Melhorias no painel administrativo e correcoes de bugs",
+  "staged_version": "1.2",
+  "staged_url": "https://github.com/newrark/newrark-updates/releases/download/v1.1/Newrark_Setup.exe",
+  "staged_changelog": "Melhorias e correções"
 }
