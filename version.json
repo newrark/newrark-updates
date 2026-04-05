@@ -1,6 +1,6 @@
 {
-  "version": "1.8",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v1.8/324234.exe",
+  "version": "1.9",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v1.9/hgjghjghjghjghjgh.exe",
   "rollback": false,
   "rollback_version": "1.0",
   "rollback_url": "",
@@ -19,13 +19,19 @@
   ],
   "released_serials": [],
   "release_all": true,
-  "changelog": "Logs",
+  "changelog": "Sta",
   "staged_version": "1.1",
   "staged_url": "https://github.com/newrark/newrark-updates/releases/download/v1.1/Newrark_Setup.exe",
   "staged_changelog": "Resoluções de Falhas Sistemicas",
-  "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
+  "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
   "release_date": "2026-04-05",
   "version_history": [
+    {
+      "version": "1.9",
+      "date": "2026-04-05 15:27:47",
+      "size_mb": 105.11,
+      "changelog": "Sta"
+    },
     {
       "version": "1.8",
       "date": "2026-04-05 06:07:03",
