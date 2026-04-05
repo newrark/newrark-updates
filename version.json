@@ -5,7 +5,9 @@
   "rollback_version": "1.0",
   "rollback_url": "",
   "rollback_serials": [],
-  "blocked_serials": [],
+  "blocked_serials": [
+    "NWRK-FA92-443F-893D-C8AF"
+  ],
   "force_update_serials": [],
   "released_serials": [],
   "release_all": true,
@@ -33,6 +35,20 @@
       "date": "2026-04-05 03:48:35",
       "size_mb": 78.39,
       "changelog": "bugs"
+    }
+  ],
+  "staged_versions": [
+    {
+      "version": "1.7",
+      "date": "2026-04-05 04:30:45",
+      "size_mb": 105.11,
+      "changelog": "win",
+      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-21f26448a6fae4e546d7/hgjghjghjghjghjgh.exe",
+      "release_id": 305387916,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-21f26448a6fae4e546d7",
+      "status": "staged",
+      "released_to": []
     }
   ]
 }
