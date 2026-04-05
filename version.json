@@ -29,12 +29,6 @@
       "date": "2026-04-05 04:00:11",
       "size_mb": 105.11,
       "changelog": "Arq"
-    },
-    {
-      "version": "1.4",
-      "date": "2026-04-05 03:48:35",
-      "size_mb": 78.39,
-      "changelog": "bugs"
     }
   ],
   "staged_versions": [
