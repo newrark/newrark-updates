@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v1.3/Newrark_Setup.exe",
+  "version": "1.4",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v1.4/Newrark_Setup.exe",
   "rollback": false,
   "rollback_version": "1.0",
   "rollback_url": "",
@@ -9,11 +9,18 @@
   "force_update_serials": [],
   "released_serials": [],
   "release_all": true,
-  "changelog": "Sistema",
+  "changelog": "Bugs",
   "staged_version": "1.1",
   "staged_url": "https://github.com/newrark/newrark-updates/releases/download/v1.1/Newrark_Setup.exe",
   "staged_changelog": "Resoluções de Falhas Sistemicas",
   "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
   "release_date": "2026-04-05",
-  "version_history": []
+  "version_history": [
+    {
+      "version": "1.4",
+      "date": "2026-04-05 03:18:01",
+      "size_mb": 78.39,
+      "changelog": "Bugs"
+    }
+  ]
 }
