@@ -10,7 +10,12 @@
       "version": "1.7"
     }
   ],
-  "update_blocked_serials": [],
+  "update_blocked_serials": [
+    "NWRK-3ED2-CDDB-ADA9-4427",
+    "NWRK-FA92-443F-893D-C8AF",
+    "NWRK-A796-BE96-9C2F-D243",
+    "NWRK-AEB7-D2D9-DACB-54A5"
+  ],
   "blocked_serials": [
     "NWRK-FA92-443F-893D-C8AF",
     "NWRK-A796-BE96-9C2F-D243",
