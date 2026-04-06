@@ -24,12 +24,6 @@
       "date": "2026-04-05",
       "size_mb": 105.11,
       "changelog": "Versão 2.1"
-    },
-    {
-      "version": "1.9",
-      "date": "—",
-      "size_mb": 105.11,
-      "changelog": "📝 CHANGELOG:\nSta\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
     }
   ],
   "staged_versions": [
@@ -54,18 +48,6 @@
       "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-1cda81bd747fddcf4e7f/2.1.exe",
       "release_id": 305480793,
       "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-1cda81bd747fddcf4e7f",
-      "status": "staged",
-      "released_to": []
-    },
-    {
-      "version": "1.9",
-      "date": "—",
-      "size_mb": 105.11,
-      "changelog": "📝 CHANGELOG:\nSta\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par",
-      "hash": "",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-a578a6448790f6458f30/hgjghjghjghjghjgh.exe",
-      "release_id": 305458641,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-a578a6448790f6458f30",
       "status": "staged",
       "released_to": []
     },
