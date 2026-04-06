@@ -38,42 +38,5 @@
   "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
   "release_date": "2026-04-06",
   "version_history": [],
-  "staged_versions": [
-    {
-      "version": "1.7",
-      "date": "2026-04-05 04:30:45",
-      "size_mb": 105.11,
-      "changelog": "win",
-      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-21f26448a6fae4e546d7/hgjghjghjghjghjgh.exe",
-      "release_id": 305387916,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-21f26448a6fae4e546d7",
-      "status": "staged",
-      "released_to": []
-    },
-    {
-      "version": "1.8",
-      "date": "2026-04-05 06:07:09",
-      "size_mb": 78.39,
-      "changelog": "Logs",
-      "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-43499f6aff66944c51d3/324234.exe",
-      "release_id": 305396963,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-43499f6aff66944c51d3",
-      "status": "staged",
-      "released_to": []
-    },
-    {
-      "version": "1.6",
-      "date": "2026-04-06 16:50:08",
-      "size_mb": 78.39,
-      "changelog": "Nada",
-      "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-99fac88e9dda61c38d4f/1.6.exe",
-      "release_id": 305800919,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-99fac88e9dda61c38d4f",
-      "status": "staged",
-      "released_to": []
-    }
-  ]
+  "staged_versions": []
 }
