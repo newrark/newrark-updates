@@ -20,22 +20,16 @@
       "changelog": "📝 CHANGELOG:\n\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada para t"
     },
     {
-      "version": "2.0",
-      "date": "—",
-      "size_mb": 78.39,
-      "changelog": "📝 CHANGELOG:\nNada\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada pa"
-    },
-    {
       "version": "2.1",
       "date": "2026-04-05",
       "size_mb": 105.11,
       "changelog": "Versão 2.1"
     },
     {
-      "version": "2.0",
-      "date": "2026-04-05",
-      "size_mb": 78.39,
-      "changelog": "Nada"
+      "version": "1.9",
+      "date": "—",
+      "size_mb": 105.11,
+      "changelog": "📝 CHANGELOG:\nSta\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
     }
   ],
   "staged_versions": [
