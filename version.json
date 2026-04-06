@@ -12,6 +12,44 @@
       "date": "2026-04-05 21:35:59",
       "size_mb": 105.11,
       "changelog": "Link"
+    },
+    {
+      "version": "2.1",
+      "date": "—",
+      "size_mb": 105.11,
+      "changelog": "📝 CHANGELOG:\n\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada para t"
+    },
+    {
+      "version": "2.0",
+      "date": "—",
+      "size_mb": 78.39,
+      "changelog": "📝 CHANGELOG:\nNada\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada pa"
+    },
+    {
+      "version": "2.1",
+      "date": "2026-04-05",
+      "size_mb": 105.11,
+      "changelog": "Versão 2.1"
+    },
+    {
+      "version": "2.0",
+      "date": "2026-04-05",
+      "size_mb": 78.39,
+      "changelog": "Nada"
+    }
+  ],
+  "staged_versions": [
+    {
+      "version": "2.2",
+      "date": "2026-04-05 21:36:03",
+      "size_mb": 105.11,
+      "changelog": "Link",
+      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-2230d20213bb50b503d2/2.2.exe",
+      "release_id": 305497594,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-2230d20213bb50b503d2",
+      "status": "staged",
+      "released_to": []
     }
   ]
 }
