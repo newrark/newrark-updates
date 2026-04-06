@@ -1,18 +1,12 @@
 {
-  "version": "2.2",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v2.2/2.2.exe",
+  "version": "2.1",
+  "url": "",
   "update_blocked_serials": [],
   "blocked_serials": [],
-  "changelog": "Link",
-  "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
-  "release_date": "2026-04-05",
+  "changelog": "📝 CHANGELOG:\n\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada para t",
+  "hash": "",
+  "release_date": "—",
   "version_history": [
-    {
-      "version": "2.2",
-      "date": "2026-04-05 21:35:59",
-      "size_mb": 105.11,
-      "changelog": "Link"
-    },
     {
       "version": "2.1",
       "date": "—",
@@ -27,18 +21,6 @@
     }
   ],
   "staged_versions": [
-    {
-      "version": "2.2",
-      "date": "2026-04-05 21:36:03",
-      "size_mb": 105.11,
-      "changelog": "Link",
-      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-2230d20213bb50b503d2/2.2.exe",
-      "release_id": 305497594,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-2230d20213bb50b503d2",
-      "status": "staged",
-      "released_to": []
-    },
     {
       "version": "2.1",
       "date": "—",
