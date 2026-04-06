@@ -1,6 +1,6 @@
 {
-  "version": "1.7",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/untagged-3a50738c3f3abc287151/1.7.exe",
+  "version": "1.8",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/untagged-8b924119ad16f0d8eb46/1.8.exe",
   "rollback": true,
   "rollback_version": "1.0",
   "rollback_url": "",
@@ -31,13 +31,19 @@
   "force_update_serials": [],
   "released_serials": [],
   "release_all": true,
-  "changelog": "lot",
+  "changelog": "tve",
   "staged_version": "1.1",
   "staged_url": "https://github.com/newrark/newrark-updates/releases/download/v1.1/Newrark_Setup.exe",
   "staged_changelog": "Resoluções de Falhas Sistemicas",
-  "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
+  "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
   "release_date": "2026-04-06",
   "version_history": [
+    {
+      "version": "1.8",
+      "date": "2026-04-06 20:36:31",
+      "size_mb": 105.11,
+      "changelog": "tve"
+    },
     {
       "version": "1.7",
       "date": "2026-04-06 20:27:41",
@@ -79,6 +85,18 @@
       "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-adab0781a3d39237db8c/1.7.exe",
       "release_id": 305863324,
       "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-adab0781a3d39237db8c",
+      "status": "staged",
+      "released_to": []
+    },
+    {
+      "version": "1.8",
+      "date": "2026-04-06 20:36:26",
+      "size_mb": 105.11,
+      "changelog": "tve",
+      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-d99e69ffe036fbb43a41/1.8.exe",
+      "release_id": 305864948,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-d99e69ffe036fbb43a41",
       "status": "staged",
       "released_to": []
     }
