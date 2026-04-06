@@ -37,6 +37,19 @@
   "staged_changelog": "Resoluções de Falhas Sistemicas",
   "hash": "",
   "release_date": "",
-  "version_history": [],
+  "version_history": [
+    {
+      "version": "1.5",
+      "date": "—",
+      "size_mb": "—",
+      "changelog": "📝 CHANGELOG:\nlog\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
+    },
+    {
+      "version": "1.5",
+      "date": "2026-04-06",
+      "size_mb": "—",
+      "changelog": "log"
+    }
+  ],
   "staged_versions": []
 }
