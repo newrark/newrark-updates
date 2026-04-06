@@ -1,29 +1,29 @@
 {
-  "version": "2.2",
+  "version": "2.1",
   "url": "",
   "update_blocked_serials": [],
   "blocked_serials": [],
-  "changelog": "📝 CHANGELOG:\nLink\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada pa",
+  "changelog": "📝 CHANGELOG:\n\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada para t",
   "hash": "",
   "release_date": "—",
   "version_history": [
     {
-      "version": "2.2",
+      "version": "2.1",
       "date": "—",
       "size_mb": 105.11,
-      "changelog": "📝 CHANGELOG:\nLink\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada pa"
+      "changelog": "📝 CHANGELOG:\n\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada para t"
     }
   ],
   "staged_versions": [
     {
-      "version": "2.2",
+      "version": "2.1",
       "date": "—",
       "size_mb": 105.11,
-      "changelog": "📝 CHANGELOG:\nLink\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada pa",
+      "changelog": "📝 CHANGELOG:\n\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada para t",
       "hash": "",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-2230d20213bb50b503d2/2.2.exe",
-      "release_id": 305497594,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-2230d20213bb50b503d2",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-1cda81bd747fddcf4e7f/2.1.exe",
+      "release_id": 305480793,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-1cda81bd747fddcf4e7f",
       "status": "staged",
       "released_to": []
     }
