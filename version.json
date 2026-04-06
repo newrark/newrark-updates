@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "url": "",
+  "version": "1.5",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v1.5/1.5.exe",
   "rollback": true,
   "rollback_version": "1.0",
   "rollback_url": "",
@@ -31,18 +31,18 @@
   ],
   "released_serials": [],
   "release_all": true,
-  "changelog": "",
+  "changelog": "log",
   "staged_version": "1.1",
   "staged_url": "https://github.com/newrark/newrark-updates/releases/download/v1.1/Newrark_Setup.exe",
   "staged_changelog": "Resoluções de Falhas Sistemicas",
-  "hash": "",
-  "release_date": "",
+  "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
+  "release_date": "2026-04-06",
   "version_history": [
     {
       "version": "1.5",
-      "date": "—",
-      "size_mb": "—",
-      "changelog": "📝 CHANGELOG:\nlog\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
+      "date": "2026-04-06 17:50:57",
+      "size_mb": 105.11,
+      "changelog": "log"
     },
     {
       "version": "1.5",
@@ -51,5 +51,18 @@
       "changelog": "log"
     }
   ],
-  "staged_versions": []
+  "staged_versions": [
+    {
+      "version": "1.5",
+      "date": "2026-04-06 17:50:56",
+      "size_mb": 105.11,
+      "changelog": "log",
+      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-0d12fd2fd9f3bd9afbb2/1.5.exe",
+      "release_id": 305821050,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-0d12fd2fd9f3bd9afbb2",
+      "status": "staged",
+      "released_to": []
+    }
+  ]
 }
