@@ -22,7 +22,9 @@
       "version": "1.0"
     }
   ],
-  "blocked_serials": [],
+  "blocked_serials": [
+    "NWRK-3ED2-CDDB-ADA9-4427"
+  ],
   "force_update_serials": [],
   "released_serials": [],
   "release_all": true,
