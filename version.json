@@ -1,44 +1,45 @@
 {
-  "version": "1.5",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v1.5/1.5.exe",
-  "update_blocked_serials": [],
-  "blocked_serials": [],
-  "changelog": "Log",
-  "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
+  "version": "1.8",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v1.8/324234.exe",
+  "rollback": false,
+  "rollback_version": "1.0",
+  "rollback_url": "",
+  "rollback_serials": [
+    {
+      "serial": "NWRK-A796-BE96-9C2F-D243",
+      "version": "1.7"
+    }
+  ],
+  "blocked_serials": [
+    "NWRK-FA92-443F-893D-C8AF"
+  ],
+  "force_update_serials": [
+    "NWRK-A796-BE96-9C2F-D243",
+    "NWRK-AEB7-D2D9-DACB-54A5"
+  ],
+  "released_serials": [],
+  "release_all": true,
+  "changelog": "Logs",
+  "staged_version": "1.1",
+  "staged_url": "https://github.com/newrark/newrark-updates/releases/download/v1.1/Newrark_Setup.exe",
+  "staged_changelog": "Resoluções de Falhas Sistemicas",
+  "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
   "release_date": "2026-04-05",
   "version_history": [
     {
-      "version": "1.5",
-      "date": "2026-04-05 22:26:37",
-      "size_mb": 105.11,
-      "changelog": "Log"
+      "version": "1.8",
+      "date": "2026-04-05 06:07:03",
+      "size_mb": 78.39,
+      "changelog": "Logs"
     },
     {
-      "version": "2.1",
-      "date": "—",
+      "version": "1.7",
+      "date": "2026-04-05 04:30:41",
       "size_mb": 105.11,
-      "changelog": "📝 CHANGELOG:\n\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada para t"
-    },
-    {
-      "version": "2.2",
-      "date": "—",
-      "size_mb": 105.11,
-      "changelog": "📝 CHANGELOG:\nLink\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada pa"
+      "changelog": "win"
     }
   ],
   "staged_versions": [
-    {
-      "version": "2.1",
-      "date": "—",
-      "size_mb": 105.11,
-      "changelog": "📝 CHANGELOG:\n\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada para t",
-      "hash": "",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-1cda81bd747fddcf4e7f/2.1.exe",
-      "release_id": 305480793,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-1cda81bd747fddcf4e7f",
-      "status": "staged",
-      "released_to": []
-    },
     {
       "version": "2.2",
       "date": "—",
@@ -53,13 +54,37 @@
     },
     {
       "version": "1.5",
-      "date": "2026-04-05 22:26:32",
+      "date": "—",
       "size_mb": 105.11,
-      "changelog": "Log",
-      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
+      "changelog": "📝 CHANGELOG:\nLog\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par",
+      "hash": "",
       "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-fff25c12ad9021c5e89f/1.5.exe",
       "release_id": 305503384,
       "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-fff25c12ad9021c5e89f",
+      "status": "staged",
+      "released_to": []
+    },
+    {
+      "version": "2.1",
+      "date": "—",
+      "size_mb": 105.11,
+      "changelog": "📝 CHANGELOG:\n\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada para t",
+      "hash": "",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-1cda81bd747fddcf4e7f/2.1.exe",
+      "release_id": 305480793,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-1cda81bd747fddcf4e7f",
+      "status": "staged",
+      "released_to": []
+    },
+    {
+      "version": "1.5",
+      "date": "2026-04-06",
+      "size_mb": 105.11,
+      "changelog": "Log",
+      "hash": "",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v1.5/1.5.exe",
+      "release_id": 305503393,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/v1.5",
       "status": "staged",
       "released_to": []
     }
