@@ -1,6 +1,6 @@
 {
-  "version": "2.3",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v2.3/2.3.exe",
+  "version": "2.6",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v2.6/2.6.exe",
   "rollback": false,
   "rollback_version": "",
   "rollback_url": "",
@@ -14,11 +14,11 @@
     "NWRK-3ED2-CDDB-ADA9-4427"
   ],
   "release_all": true,
-  "changelog": "erty",
+  "changelog": "versão",
   "staged_version": "",
   "staged_url": "",
   "staged_changelog": "",
-  "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
+  "hash": "8e957fc9659ff1a4f8113965fd22509d2a2f77f2c2245f379c86cbc6cbbfa0b4",
   "release_date": "2026-04-07",
   "version_history": [
     {
@@ -194,6 +194,23 @@
         "NWRK-A796-BE96-9C2F-D243",
         "NWRK-FA92-443F-893D-C8AF",
         "NWRK-3ED2-CDDB-ADA9-4427"
+      ]
+    },
+    {
+      "version": "2.6",
+      "date": "2026-04-07 04:39:56",
+      "size_mb": 78.44,
+      "changelog": "versão",
+      "hash": "8e957fc9659ff1a4f8113965fd22509d2a2f77f2c2245f379c86cbc6cbbfa0b4",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v2.6/2.6.exe",
+      "release_id": 305964328,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/v2.6",
+      "status": "staged",
+      "released_to": [
+        "NWRK-AEB7-D2D9-DACB-54A5",
+        "NWRK-3ED2-CDDB-ADA9-4427",
+        "NWRK-A796-BE96-9C2F-D243",
+        "NWRK-FA92-443F-893D-C8AF"
       ]
     }
   ]
