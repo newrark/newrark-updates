@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/untagged-bb0d8b054b966972127d/1.9.exe",
+  "version": "2.1",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/untagged-1040e2b2bca323bc988c/2.1.exe",
   "rollback": true,
   "rollback_version": "1.0",
   "rollback_url": "",
@@ -23,24 +23,15 @@
     }
   ],
   "blocked_serials": [],
-  "force_update_serials": [
-    "NWRK-FA92-443F-893D-C8AF",
-    "NWRK-AEB7-D2D9-DACB-54A5",
-    "NWRK-A796-BE96-9C2F-D243"
-  ],
-  "released_serials": [
-    "NWRK-FA92-443F-893D-C8AF",
-    "NWRK-A796-BE96-9C2F-D243",
-    "NWRK-3ED2-CDDB-ADA9-4427",
-    "NWRK-AEB7-D2D9-DACB-54A5"
-  ],
+  "force_update_serials": [],
+  "released_serials": [],
   "release_all": true,
-  "changelog": "gti",
-  "staged_version": "2.0",
-  "staged_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-3077e1d8cdc160b18151/2.0.exe",
-  "staged_changelog": "die",
+  "changelog": "gyo",
+  "staged_version": "",
+  "staged_url": "",
+  "staged_changelog": "",
   "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
-  "release_date": "2026-04-06",
+  "release_date": "2026-04-07",
   "version_history": [
     {
       "version": "1.9",
@@ -158,6 +149,23 @@
         "NWRK-3ED2-CDDB-ADA9-4427",
         "NWRK-FA92-443F-893D-C8AF",
         "NWRK-AEB7-D2D9-DACB-54A5"
+      ]
+    },
+    {
+      "version": "2.1",
+      "date": "2026-04-07 02:13:18",
+      "size_mb": 105.11,
+      "changelog": "gyo",
+      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-1040e2b2bca323bc988c/2.1.exe",
+      "release_id": 305922723,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-1040e2b2bca323bc988c",
+      "status": "staged",
+      "released_to": [
+        "NWRK-A796-BE96-9C2F-D243",
+        "NWRK-AEB7-D2D9-DACB-54A5",
+        "NWRK-3ED2-CDDB-ADA9-4427",
+        "NWRK-FA92-443F-893D-C8AF"
       ]
     }
   ]
