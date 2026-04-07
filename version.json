@@ -32,32 +32,9 @@
       "date": "2026-04-07",
       "size_mb": 78.39,
       "changelog": "📝 CHANGELOG:\nerty"
-    },
-    {
-      "version": "2.2",
-      "date": "2026-04-07",
-      "size_mb": 105.11,
-      "changelog": "📝 CHANGELOG:\nkie\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
     }
   ],
   "staged_versions": [
-    {
-      "version": "2.2",
-      "date": "2026-04-07 03:12:22",
-      "size_mb": 105.11,
-      "changelog": "kie",
-      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-7c3a5f14888f30fea48f/2.2.exe",
-      "release_id": 305940185,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-7c3a5f14888f30fea48f",
-      "status": "staged",
-      "released_to": [
-        "NWRK-AEB7-D2D9-DACB-54A5",
-        "NWRK-3ED2-CDDB-ADA9-4427",
-        "NWRK-A796-BE96-9C2F-D243",
-        "NWRK-FA92-443F-893D-C8AF"
-      ]
-    },
     {
       "version": "2.3",
       "date": "2026-04-07 03:26:45",
