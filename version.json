@@ -50,6 +50,18 @@
       "date": "2026-04-07",
       "size_mb": 105.11,
       "changelog": "📝 CHANGELOG:\nkie\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
+    },
+    {
+      "version": "1.8",
+      "date": "—",
+      "size_mb": 105.11,
+      "changelog": "📝 CHANGELOG:\ntve\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
+    },
+    {
+      "version": "1.8",
+      "date": "—",
+      "size_mb": 105.11,
+      "changelog": "tve"
     }
   ],
   "staged_versions": [
