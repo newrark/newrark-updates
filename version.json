@@ -1,6 +1,6 @@
 {
-  "version": "2.6",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v2.6/2.6.exe",
+  "version": "2.8",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v2.8/2.8.exe",
   "rollback": false,
   "rollback_version": "",
   "rollback_url": "",
@@ -14,11 +14,11 @@
     "NWRK-3ED2-CDDB-ADA9-4427"
   ],
   "release_all": true,
-  "changelog": "versão",
+  "changelog": "Atu",
   "staged_version": "",
   "staged_url": "",
   "staged_changelog": "",
-  "hash": "8e957fc9659ff1a4f8113965fd22509d2a2f77f2c2245f379c86cbc6cbbfa0b4",
+  "hash": "4f4cce98bf73870de29bd66a3b2108beeb3cbd4bd0e40f53b4da3827344c436d",
   "release_date": "2026-04-07",
   "version_history": [
     {
@@ -85,7 +85,12 @@
       "release_id": 306242077,
       "html_url": "https://github.com/newrark/newrark-updates/releases/tag/v2.8",
       "status": "staged",
-      "released_to": []
+      "released_to": [
+        "NWRK-FA92-443F-893D-C8AF",
+        "NWRK-AEB7-D2D9-DACB-54A5",
+        "NWRK-A796-BE96-9C2F-D243",
+        "NWRK-3ED2-CDDB-ADA9-4427"
+      ]
     }
   ]
 }
