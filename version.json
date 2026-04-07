@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/untagged-cfb7584aa23b0654d623/1.9.exe",
+  "version": "2.2",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/untagged-7c3a5f14888f30fea48f/2.2.exe",
   "rollback": true,
   "rollback_version": "1.0",
   "rollback_url": "",
@@ -26,7 +26,7 @@
   "force_update_serials": [],
   "released_serials": [],
   "release_all": true,
-  "changelog": "gti",
+  "changelog": "kie",
   "staged_version": "",
   "staged_url": "",
   "staged_changelog": "",
@@ -171,6 +171,23 @@
         "NWRK-A796-BE96-9C2F-D243",
         "NWRK-AEB7-D2D9-DACB-54A5",
         "NWRK-3ED2-CDDB-ADA9-4427",
+        "NWRK-FA92-443F-893D-C8AF"
+      ]
+    },
+    {
+      "version": "2.2",
+      "date": "2026-04-07 03:12:22",
+      "size_mb": 105.11,
+      "changelog": "kie",
+      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-7c3a5f14888f30fea48f/2.2.exe",
+      "release_id": 305940185,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-7c3a5f14888f30fea48f",
+      "status": "staged",
+      "released_to": [
+        "NWRK-AEB7-D2D9-DACB-54A5",
+        "NWRK-3ED2-CDDB-ADA9-4427",
+        "NWRK-A796-BE96-9C2F-D243",
         "NWRK-FA92-443F-893D-C8AF"
       ]
     }
