@@ -26,8 +26,8 @@
   "force_update_serials": [
     "NWRK-3ED2-CDDB-ADA9-4427",
     "NWRK-FA92-443F-893D-C8AF",
-    "NWRK-A796-BE96-9C2F-D243",
-    "NWRK-AEB7-D2D9-DACB-54A5"
+    "NWRK-AEB7-D2D9-DACB-54A5",
+    "NWRK-A796-BE96-9C2F-D243"
   ],
   "released_serials": [
     "NWRK-FA92-443F-893D-C8AF",
@@ -37,9 +37,9 @@
   ],
   "release_all": true,
   "changelog": "gti",
-  "staged_version": "2.0",
-  "staged_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-3077e1d8cdc160b18151/2.0.exe",
-  "staged_changelog": "die",
+  "staged_version": "1.8",
+  "staged_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-d99e69ffe036fbb43a41/1.8.exe",
+  "staged_changelog": "tve",
   "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
   "release_date": "2026-04-06",
   "version_history": [
