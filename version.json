@@ -22,18 +22,6 @@
   "release_date": "2026-04-07",
   "version_history": [
     {
-      "version": "2.0",
-      "date": "—",
-      "size_mb": 78.39,
-      "changelog": "📝 CHANGELOG:\ndie\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
-    },
-    {
-      "version": "2.1",
-      "date": "—",
-      "size_mb": 105.11,
-      "changelog": "📝 CHANGELOG:\ngyo\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
-    },
-    {
       "version": "2.6",
       "date": "2026-04-07",
       "size_mb": 78.44,
@@ -50,55 +38,9 @@
       "date": "2026-04-07",
       "size_mb": 105.11,
       "changelog": "📝 CHANGELOG:\nkie\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
-    },
-    {
-      "version": "1.8",
-      "date": "—",
-      "size_mb": 105.11,
-      "changelog": "📝 CHANGELOG:\ntve\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
-    },
-    {
-      "version": "1.8",
-      "date": "—",
-      "size_mb": 105.11,
-      "changelog": "tve"
     }
   ],
   "staged_versions": [
-    {
-      "version": "2.0",
-      "date": "2026-04-07 00:19:15",
-      "size_mb": 78.39,
-      "changelog": "die",
-      "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-3077e1d8cdc160b18151/2.0.exe",
-      "release_id": 305903311,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-3077e1d8cdc160b18151",
-      "status": "staged",
-      "released_to": [
-        "NWRK-A796-BE96-9C2F-D243",
-        "NWRK-3ED2-CDDB-ADA9-4427",
-        "NWRK-FA92-443F-893D-C8AF",
-        "NWRK-AEB7-D2D9-DACB-54A5"
-      ]
-    },
-    {
-      "version": "2.1",
-      "date": "2026-04-07 02:13:18",
-      "size_mb": 105.11,
-      "changelog": "gyo",
-      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-1040e2b2bca323bc988c/2.1.exe",
-      "release_id": 305922723,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-1040e2b2bca323bc988c",
-      "status": "staged",
-      "released_to": [
-        "NWRK-A796-BE96-9C2F-D243",
-        "NWRK-AEB7-D2D9-DACB-54A5",
-        "NWRK-3ED2-CDDB-ADA9-4427",
-        "NWRK-FA92-443F-893D-C8AF"
-      ]
-    },
     {
       "version": "2.2",
       "date": "2026-04-07 03:12:22",
