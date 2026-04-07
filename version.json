@@ -1,7 +1,7 @@
 {
   "version": "2.3",
   "url": "https://github.com/newrark/newrark-updates/releases/download/v2.3/2.3.exe",
-  "rollback": true,
+  "rollback": false,
   "rollback_version": "1.0",
   "rollback_url": "",
   "rollback_serials": [
