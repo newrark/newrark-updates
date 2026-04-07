@@ -34,18 +34,6 @@
       "changelog": "tve"
     },
     {
-      "version": "1.7",
-      "date": "2026-04-06 20:27:41",
-      "size_mb": 78.39,
-      "changelog": "lot"
-    },
-    {
-      "version": "1.6",
-      "date": "2026-04-06 18:04:32",
-      "size_mb": 78.39,
-      "changelog": "kiy"
-    },
-    {
       "version": "1.5",
       "date": "—",
       "size_mb": 105.11,
@@ -62,38 +50,27 @@
       "date": "—",
       "size_mb": 105.11,
       "changelog": "📝 CHANGELOG:\ngyo\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
+    },
+    {
+      "version": "2.6",
+      "date": "2026-04-07",
+      "size_mb": 78.44,
+      "changelog": "📝 CHANGELOG:\nversão"
+    },
+    {
+      "version": "2.3",
+      "date": "2026-04-07",
+      "size_mb": 78.39,
+      "changelog": "📝 CHANGELOG:\nerty"
+    },
+    {
+      "version": "2.2",
+      "date": "2026-04-07",
+      "size_mb": 105.11,
+      "changelog": "📝 CHANGELOG:\nkie\n\n---\n⚠ Esta versão está em modo de preparação (staging). Ainda não foi liberada par"
     }
   ],
   "staged_versions": [
-    {
-      "version": "1.6",
-      "date": "2026-04-06 18:04:32",
-      "size_mb": 78.39,
-      "changelog": "kiy",
-      "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-fea369aebe26f82b423b/1.6.exe",
-      "release_id": 305826127,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-fea369aebe26f82b423b",
-      "status": "staged",
-      "released_to": []
-    },
-    {
-      "version": "1.7",
-      "date": "2026-04-06 20:27:40",
-      "size_mb": 78.39,
-      "changelog": "lot",
-      "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-adab0781a3d39237db8c/1.7.exe",
-      "release_id": 305863324,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-adab0781a3d39237db8c",
-      "status": "staged",
-      "released_to": [
-        "NWRK-A796-BE96-9C2F-D243",
-        "NWRK-3ED2-CDDB-ADA9-4427",
-        "NWRK-FA92-443F-893D-C8AF",
-        "NWRK-AEB7-D2D9-DACB-54A5"
-      ]
-    },
     {
       "version": "1.8",
       "date": "2026-04-06 20:36:26",
