@@ -1,6 +1,6 @@
 {
-  "version": "2.2",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/untagged-7c3a5f14888f30fea48f/2.2.exe",
+  "version": "2.3",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v2.3/2.3.exe",
   "rollback": true,
   "rollback_version": "1.0",
   "rollback_url": "",
@@ -24,13 +24,18 @@
   ],
   "blocked_serials": [],
   "force_update_serials": [],
-  "released_serials": [],
+  "released_serials": [
+    "NWRK-AEB7-D2D9-DACB-54A5",
+    "NWRK-A796-BE96-9C2F-D243",
+    "NWRK-FA92-443F-893D-C8AF",
+    "NWRK-3ED2-CDDB-ADA9-4427"
+  ],
   "release_all": true,
-  "changelog": "kie",
+  "changelog": "erty",
   "staged_version": "",
   "staged_url": "",
   "staged_changelog": "",
-  "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
+  "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
   "release_date": "2026-04-07",
   "version_history": [
     {
@@ -189,6 +194,23 @@
         "NWRK-3ED2-CDDB-ADA9-4427",
         "NWRK-A796-BE96-9C2F-D243",
         "NWRK-FA92-443F-893D-C8AF"
+      ]
+    },
+    {
+      "version": "2.3",
+      "date": "2026-04-07 03:26:45",
+      "size_mb": 78.39,
+      "changelog": "erty",
+      "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v2.3/2.3.exe",
+      "release_id": 305943744,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/v2.3",
+      "status": "staged",
+      "released_to": [
+        "NWRK-AEB7-D2D9-DACB-54A5",
+        "NWRK-A796-BE96-9C2F-D243",
+        "NWRK-FA92-443F-893D-C8AF",
+        "NWRK-3ED2-CDDB-ADA9-4427"
       ]
     }
   ]
