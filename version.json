@@ -98,7 +98,12 @@
       "release_id": 305863324,
       "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-adab0781a3d39237db8c",
       "status": "staged",
-      "released_to": []
+      "released_to": [
+        "NWRK-A796-BE96-9C2F-D243",
+        "NWRK-3ED2-CDDB-ADA9-4427",
+        "NWRK-FA92-443F-893D-C8AF",
+        "NWRK-AEB7-D2D9-DACB-54A5"
+      ]
     },
     {
       "version": "1.8",
