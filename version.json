@@ -22,12 +22,6 @@
   "release_date": "2026-04-07",
   "version_history": [
     {
-      "version": "1.8",
-      "date": "2026-04-06 20:36:31",
-      "size_mb": 105.11,
-      "changelog": "tve"
-    },
-    {
       "version": "2.0",
       "date": "—",
       "size_mb": 78.39,
@@ -59,23 +53,6 @@
     }
   ],
   "staged_versions": [
-    {
-      "version": "1.8",
-      "date": "2026-04-06 20:36:26",
-      "size_mb": 105.11,
-      "changelog": "tve",
-      "hash": "cdfd8faa2ff7f81d6283593ef2714dfd618471fd6cf81b9ad11b279f04eeb3c2",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/untagged-d99e69ffe036fbb43a41/1.8.exe",
-      "release_id": 305864948,
-      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/untagged-d99e69ffe036fbb43a41",
-      "status": "staged",
-      "released_to": [
-        "NWRK-A796-BE96-9C2F-D243",
-        "NWRK-3ED2-CDDB-ADA9-4427",
-        "NWRK-FA92-443F-893D-C8AF",
-        "NWRK-AEB7-D2D9-DACB-54A5"
-      ]
-    },
     {
       "version": "2.0",
       "date": "2026-04-07 00:19:15",
