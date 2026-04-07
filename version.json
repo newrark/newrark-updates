@@ -1,6 +1,6 @@
 {
-  "version": "2.1",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/untagged-1040e2b2bca323bc988c/2.1.exe",
+  "version": "1.9",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/untagged-cfb7584aa23b0654d623/1.9.exe",
   "rollback": true,
   "rollback_version": "1.0",
   "rollback_url": "",
@@ -26,7 +26,7 @@
   "force_update_serials": [],
   "released_serials": [],
   "release_all": true,
-  "changelog": "gyo",
+  "changelog": "gti",
   "staged_version": "",
   "staged_url": "",
   "staged_changelog": "",
