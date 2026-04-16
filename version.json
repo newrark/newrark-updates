@@ -1,6 +1,6 @@
 {
-  "version": "2.8",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v2.8/2.8.exe",
+  "version": "2.3",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v2.3/2.3.exe",
   "rollback": false,
   "rollback_version": "",
   "rollback_url": "",
@@ -11,15 +11,16 @@
     "NWRK-AEB7-D2D9-DACB-54A5",
     "NWRK-A796-BE96-9C2F-D243",
     "NWRK-FA92-443F-893D-C8AF",
-    "NWRK-3ED2-CDDB-ADA9-4427"
+    "NWRK-3ED2-CDDB-ADA9-4427",
+    "NWRK-959A-FDDB-9BC6-45F5"
   ],
   "release_all": true,
-  "changelog": "Atu",
+  "changelog": "erty",
   "staged_version": "",
   "staged_url": "",
   "staged_changelog": "",
-  "hash": "4f4cce98bf73870de29bd66a3b2108beeb3cbd4bd0e40f53b4da3827344c436d",
-  "release_date": "2026-04-07",
+  "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
+  "release_date": "2026-04-12",
   "version_history": [
     {
       "version": "2.6",
@@ -55,7 +56,8 @@
         "NWRK-AEB7-D2D9-DACB-54A5",
         "NWRK-A796-BE96-9C2F-D243",
         "NWRK-FA92-443F-893D-C8AF",
-        "NWRK-3ED2-CDDB-ADA9-4427"
+        "NWRK-3ED2-CDDB-ADA9-4427",
+        "NWRK-959A-FDDB-9BC6-45F5"
       ]
     },
     {
