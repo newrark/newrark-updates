@@ -6,7 +6,8 @@
   "rollback_url": "",
   "rollback_serials": [],
   "blocked_serials": [
-    "NWRK-23CE-C40B-2AC4-0C2C"
+    "NWRK-23CE-C40B-2AC4-0C2C",
+    "NWRK-BBB4-C7E5-4576-45DB"
   ],
   "force_update_serials": [],
   "released_serials": [
