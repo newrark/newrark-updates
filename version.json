@@ -1,6 +1,6 @@
 {
-  "version": "2.3",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v2.3/2.3.exe",
+  "version": "2.9",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v2.9/2.9.exe",
   "rollback": false,
   "rollback_version": "",
   "rollback_url": "",
@@ -12,15 +12,34 @@
     "NWRK-A796-BE96-9C2F-D243",
     "NWRK-FA92-443F-893D-C8AF",
     "NWRK-3ED2-CDDB-ADA9-4427",
-    "NWRK-959A-FDDB-9BC6-45F5"
+    "NWRK-959A-FDDB-9BC6-45F5",
+    "NWRK-5349-4565-2F05-FA4B",
+    "NWRK-BBB4-C7E5-4576-45DB",
+    "NWRK-33BC-294C-D9F9-0CB3",
+    "NWRK-40B8-9BF2-857A-E53C",
+    "NWRK-C5F4-759E-0224-EAA5",
+    "NWRK-47DA-827B-F82F-B696",
+    "NWRK-BEC7-FA0B-BFB2-7062",
+    "NWRK-62F8-EC71-9CE0-0A57",
+    "NWRK-0201-EDD6-A95C-CF94",
+    "NWRK-10D7-216F-7215-5F08",
+    "NWRK-35F8-FE8F-A77B-4A15",
+    "NWRK-E3DA-3F3F-0E73-FA72",
+    "NWRK-DC17-30EF-C9A0-97F8",
+    "NWRK-BED6-6901-A597-BA9A",
+    "NWRK-B18B-C77E-C988-78A3",
+    "NWRK-0725-7EEE-170B-6D86",
+    "NWRK-41F8-5E3D-08DC-C2C1",
+    "NWRK-4923-041C-9D68-86DE",
+    "NWRK-23CE-C40B-2AC4-0C2C"
   ],
   "release_all": true,
-  "changelog": "erty",
+  "changelog": "nada",
   "staged_version": "",
   "staged_url": "",
   "staged_changelog": "",
-  "hash": "66a7a84b6fc05a197d17669525d8887a8edad589d85743fb15f9334f98dd8197",
-  "release_date": "2026-04-12",
+  "hash": "4f4cce98bf73870de29bd66a3b2108beeb3cbd4bd0e40f53b4da3827344c436d",
+  "release_date": "2026-04-21",
   "version_history": [
     {
       "version": "2.6",
@@ -110,7 +129,27 @@
       "release_id": 311950986,
       "html_url": "https://github.com/newrark/newrark-updates/releases/tag/v2.9",
       "status": "staged",
-      "released_to": []
+      "released_to": [
+        "NWRK-5349-4565-2F05-FA4B",
+        "NWRK-BBB4-C7E5-4576-45DB",
+        "NWRK-33BC-294C-D9F9-0CB3",
+        "NWRK-40B8-9BF2-857A-E53C",
+        "NWRK-C5F4-759E-0224-EAA5",
+        "NWRK-47DA-827B-F82F-B696",
+        "NWRK-BEC7-FA0B-BFB2-7062",
+        "NWRK-62F8-EC71-9CE0-0A57",
+        "NWRK-0201-EDD6-A95C-CF94",
+        "NWRK-10D7-216F-7215-5F08",
+        "NWRK-35F8-FE8F-A77B-4A15",
+        "NWRK-E3DA-3F3F-0E73-FA72",
+        "NWRK-DC17-30EF-C9A0-97F8",
+        "NWRK-BED6-6901-A597-BA9A",
+        "NWRK-B18B-C77E-C988-78A3",
+        "NWRK-0725-7EEE-170B-6D86",
+        "NWRK-41F8-5E3D-08DC-C2C1",
+        "NWRK-4923-041C-9D68-86DE",
+        "NWRK-23CE-C40B-2AC4-0C2C"
+      ]
     }
   ]
 }
