@@ -1,6 +1,6 @@
 {
-  "version": "2.9",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v2.9/2.9.exe",
+  "version": "3.0",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v3.0/Newrark_Setup.exe",
   "rollback": false,
   "rollback_version": "",
   "rollback_url": "",
@@ -34,11 +34,11 @@
     "NWRK-23CE-C40B-2AC4-0C2C"
   ],
   "release_all": true,
-  "changelog": "nada",
+  "changelog": "Mix",
   "staged_version": "",
   "staged_url": "",
   "staged_changelog": "",
-  "hash": "4f4cce98bf73870de29bd66a3b2108beeb3cbd4bd0e40f53b4da3827344c436d",
+  "hash": "f28e469d54bda492e6f8df9320301c906a10b5b41bbbe28ac5d2a53ab3277b64",
   "release_date": "2026-04-21",
   "version_history": [
     {
@@ -167,7 +167,27 @@
       "release_id": 311968074,
       "html_url": "https://github.com/newrark/newrark-updates/releases/tag/v3.0",
       "status": "staged",
-      "released_to": []
+      "released_to": [
+        "NWRK-33BC-294C-D9F9-0CB3",
+        "NWRK-C5F4-759E-0224-EAA5",
+        "NWRK-E3DA-3F3F-0E73-FA72",
+        "NWRK-4923-041C-9D68-86DE",
+        "NWRK-47DA-827B-F82F-B696",
+        "NWRK-23CE-C40B-2AC4-0C2C",
+        "NWRK-0201-EDD6-A95C-CF94",
+        "NWRK-BBB4-C7E5-4576-45DB",
+        "NWRK-DC17-30EF-C9A0-97F8",
+        "NWRK-40B8-9BF2-857A-E53C",
+        "NWRK-BEC7-FA0B-BFB2-7062",
+        "NWRK-5349-4565-2F05-FA4B",
+        "NWRK-62F8-EC71-9CE0-0A57",
+        "NWRK-BED6-6901-A597-BA9A",
+        "NWRK-0725-7EEE-170B-6D86",
+        "NWRK-B18B-C77E-C988-78A3",
+        "NWRK-10D7-216F-7215-5F08",
+        "NWRK-41F8-5E3D-08DC-C2C1",
+        "NWRK-35F8-FE8F-A77B-4A15"
+      ]
     }
   ]
 }
