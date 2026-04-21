@@ -64,6 +64,12 @@
       "date": "2026-04-21",
       "size_mb": 78.43,
       "changelog": "📝 CHANGELOG:\nnada"
+    },
+    {
+      "version": "3.0",
+      "date": "2026-04-21",
+      "size_mb": 35.66,
+      "changelog": "📝 CHANGELOG:\nMix"
     }
   ],
   "staged_versions": [
@@ -150,6 +156,18 @@
         "NWRK-4923-041C-9D68-86DE",
         "NWRK-23CE-C40B-2AC4-0C2C"
       ]
+    },
+    {
+      "version": "3.0",
+      "date": "2026-04-21 19:39:01",
+      "size_mb": 35.66,
+      "changelog": "Mix",
+      "hash": "f28e469d54bda492e6f8df9320301c906a10b5b41bbbe28ac5d2a53ab3277b64",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.0/Newrark_Setup.exe",
+      "release_id": 311968074,
+      "html_url": "https://github.com/newrark/newrark-updates/releases/tag/v3.0",
+      "status": "staged",
+      "released_to": []
     }
   ]
 }
