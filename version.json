@@ -5,7 +5,9 @@
   "rollback_version": "",
   "rollback_url": "",
   "rollback_serials": [],
-  "blocked_serials": [],
+  "blocked_serials": [
+    "NWRK-DE2B-A871-BB7E-179F"
+  ],
   "force_update_serials": [],
   "released_serials": [
     "NWRK-AEB7-D2D9-DACB-54A5",
