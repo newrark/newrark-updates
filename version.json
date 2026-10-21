@@ -3,8 +3,8 @@
   "hash": "f28e469d54bda492e6f8df9320301c906a10b5b41bbbe28ac5d2a53ab3277b64",
   "url": "https://github.com/newrark/newrark-updates/releases/download/v3.0/Newrark_Setup.exe",
   "changelog": "Mix",
-  "rollback_url": "",
   "rollback_version": "",
+  "rollback_url": "",
   "release_date": "2026-04-21",
   "rollback": false,
   "signature": "e8a73b9c39284cd73b08d0d7e7b0c553c4a6dc4b2be8994a506638e4bd54d727"
