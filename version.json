@@ -1,11 +1,8 @@
 {
+  "release_date": "2026-10-21",
+  "url": "",
   "version": "3.2",
   "hash": "",
-  "url": "",
-  "rollback_url": "",
-  "rollback_version": "",
   "changelog": "📝 CHANGELOG:\n",
-  "rollback": false,
-  "release_date": "2026-10-21",
-  "signature": "ae1c1acec8699e26e0f07c67dd299fd7a0b19e9843f3e8b83955e13b503b92f0"
+  "signature": "b6ee60167dbec32fbcebcd67b1219fd960187e470a646084bdbe5b3c464a8224"
 }
