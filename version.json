@@ -1,11 +1,11 @@
 {
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v3.0/Newrark_Setup.exe",
-  "changelog": "Mix",
+  "url": "",
+  "changelog": "📝 CHANGELOG:\n",
   "rollback_version": "",
-  "version": "3.0",
+  "version": "3.2",
   "rollback": false,
-  "release_date": "2026-04-21",
+  "release_date": "2026-10-21",
   "rollback_url": "",
-  "hash": "f28e469d54bda492e6f8df9320301c906a10b5b41bbbe28ac5d2a53ab3277b64",
-  "signature": "e8a73b9c39284cd73b08d0d7e7b0c553c4a6dc4b2be8994a506638e4bd54d727"
+  "hash": "",
+  "signature": "ae1c1acec8699e26e0f07c67dd299fd7a0b19e9843f3e8b83955e13b503b92f0"
 }
