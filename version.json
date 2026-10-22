@@ -1,11 +1,11 @@
 {
-  "url": "",
-  "changelog": "📝 CHANGELOG:\n",
-  "rollback_version": "",
   "version": "3.2",
+  "hash": "",
+  "url": "",
+  "rollback_url": "",
+  "rollback_version": "",
+  "changelog": "📝 CHANGELOG:\n",
   "rollback": false,
   "release_date": "2026-10-21",
-  "rollback_url": "",
-  "hash": "",
   "signature": "ae1c1acec8699e26e0f07c67dd299fd7a0b19e9843f3e8b83955e13b503b92f0"
 }
