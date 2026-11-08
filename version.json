@@ -1,10 +1,10 @@
 {
-  "version": "3.2",
-  "hash": "f28e469d54bda492e6f8df9320301c906a10b5b41bbbe28ac5d2a53ab3277b64",
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v3.2/Newrark_Setup.exe",
-  "changelog": "",
-  "release_date": "2026-10-21",
-  "signature": "W8IHtliDk8BjFG85NGOctVjTNuUHPBFxlxHo5yP1G7zypOeS+065KKJEFkt6qqGNwGyE4S9EYypX/hXodoG4BQ==",
-  "manifest_sig": "Sfmc4nn2AAJnvQif2jTuc4cP4XHJ3cVWNDu7EM2OW0/itDwaG/pLqV74GQC7eAi4JqFMyyXRYdSIW4fAX1rsDg==",
+  "version": "3.5",
+  "hash": "af3b7bf5baa6a48682873a18c42f9cd989d174f1bc0ebb3126a30d523e36950e",
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/Newrark_Setup.exe",
+  "changelog": "nada",
+  "release_date": "2026-11-08",
+  "signature": "Zax08L8u5ZeGPp1QMVHT8PQJB4uie8IzhbvLGtzsngEeoz9yao5fwQMZQLp59poFdILzHwKIXBSELFCouF2nAg==",
+  "manifest_sig": "XmxcCAlVE50sgnjztVJk69lINgyr3PPkyuJ7Yv5ZgjOUG0ou94knVKYQxREkJAUrP9YW01H2r0Oxcol+EjchBw==",
   "signature_version": "ed25519-v1"
 }
