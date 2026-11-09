@@ -1,31 +1,32 @@
 {
-  "staged_versions": [
-    {
-      "changelog": "nada",
-      "version": "3.5",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/Newrark_Setup.exe",
-      "signature": "Zax08L8u5ZeGPp1QMVHT8PQJB4uie8IzhbvLGtzsngEeoz9yao5fwQMZQLp59poFdILzHwKIXBSELFCouF2nAg==",
-      "date": "2026-11-08 16:53:06",
-      "size_mb": 92.57,
-      "hash": "af3b7bf5baa6a48682873a18c42f9cd989d174f1bc0ebb3126a30d523e36950e"
-    },
-    {
-      "changelog": "lkjl",
-      "version": "3.6",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.6/Newrark_Setup.exe",
-      "signature": "LNEPsKQYzcHgObUtyBTNLuayl41KVNj1ejj6KWuK258MqxwPK366BMJAOz4S321wsylgCHttQoj7xFoEX7Q0Cw==",
-      "date": "2026-11-08 17:53:48",
-      "size_mb": 92.57,
-      "hash": "af3b7bf5baa6a48682873a18c42f9cd989d174f1bc0ebb3126a30d523e36950e",
-      "release_date": "2026-11-08"
-    }
-  ],
-  "version": "3.5",
   "url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/Newrark_Setup.exe",
+  "version": "3.5",
   "hash": "af3b7bf5baa6a48682873a18c42f9cd989d174f1bc0ebb3126a30d523e36950e",
   "release_date": "2026-11-08",
   "changelog": "nada",
+  "staged_versions": [
+    {
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/Newrark_Setup_2-revised-20261109142609.exe",
+      "date": "2026-11-08 16:53:06",
+      "hash": "1a9276448fcb775e589e115c3e17d9a42963dd2fa723e892204fd0b654ebf8d0",
+      "installer_changed_at": "2026-11-09 14:26:43",
+      "size_mb": 92.57,
+      "version": "3.5",
+      "changelog": "nada",
+      "signature": "hdUsBILpOW/5wJPjBf6izwJ6wIMxEoRcbyhEMJBKYuiYrI/yT2IKT2pybXmwSKBkMaoqdUpsD45dccCCguPxDw=="
+    },
+    {
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.6/Newrark_Setup.exe",
+      "date": "2026-11-08 17:53:48",
+      "hash": "af3b7bf5baa6a48682873a18c42f9cd989d174f1bc0ebb3126a30d523e36950e",
+      "release_date": "2026-11-08",
+      "size_mb": 92.57,
+      "version": "3.6",
+      "changelog": "lkjl",
+      "signature": "LNEPsKQYzcHgObUtyBTNLuayl41KVNj1ejj6KWuK258MqxwPK366BMJAOz4S321wsylgCHttQoj7xFoEX7Q0Cw=="
+    }
+  ],
   "signature": "Zax08L8u5ZeGPp1QMVHT8PQJB4uie8IzhbvLGtzsngEeoz9yao5fwQMZQLp59poFdILzHwKIXBSELFCouF2nAg==",
-  "manifest_sig": "L9ETCmcOPcOZ+GaufIL9Plt3A5e4m3jEDmE6cEr1PpKctvtXrOd4uWb8IILk4JRgn9q339TK76qVEGDd6begDg==",
+  "manifest_sig": "lOV5bSQCUzHkHnv44nbW8KhSTes//hIXOsQiFBRIIqnST+HICKbCLeutj2WYlGRWUyrPaSCw+kNXe5OIQ2MZCQ==",
   "signature_version": "ed25519-v1"
 }
