@@ -16,17 +16,18 @@
       "signature": "hdUsBILpOW/5wJPjBf6izwJ6wIMxEoRcbyhEMJBKYuiYrI/yT2IKT2pybXmwSKBkMaoqdUpsD45dccCCguPxDw=="
     },
     {
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.6/Newrark_Setup.exe",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.6/Newrark_Setup_2-revised-20261109142719.exe",
       "date": "2026-11-08 17:53:48",
-      "hash": "af3b7bf5baa6a48682873a18c42f9cd989d174f1bc0ebb3126a30d523e36950e",
+      "hash": "1a9276448fcb775e589e115c3e17d9a42963dd2fa723e892204fd0b654ebf8d0",
       "release_date": "2026-11-08",
+      "installer_changed_at": "2026-11-09 14:27:53",
       "size_mb": 92.57,
       "version": "3.6",
       "changelog": "lkjl",
-      "signature": "LNEPsKQYzcHgObUtyBTNLuayl41KVNj1ejj6KWuK258MqxwPK366BMJAOz4S321wsylgCHttQoj7xFoEX7Q0Cw=="
+      "signature": "0SALOVT1Q6AWpMwVy0HJO6zZlhlAXNio3NIKPzAmbjIMLiCEq2Genf8YrRLr0kFdxk3rs2NWFmp5zUJUZZL6BA=="
     }
   ],
   "signature": "Zax08L8u5ZeGPp1QMVHT8PQJB4uie8IzhbvLGtzsngEeoz9yao5fwQMZQLp59poFdILzHwKIXBSELFCouF2nAg==",
-  "manifest_sig": "lOV5bSQCUzHkHnv44nbW8KhSTes//hIXOsQiFBRIIqnST+HICKbCLeutj2WYlGRWUyrPaSCw+kNXe5OIQ2MZCQ==",
+  "manifest_sig": "MZyfK8dafJyBZ/OItJtH5xEe495AW8FuJ5+WTD9xOOj2gVb5uOqHR/SozWNZd5Q21yZDT7uATCUFv5k0rw0SDA==",
   "signature_version": "ed25519-v1"
 }
