@@ -6,15 +6,6 @@
   "hash": "af3b7bf5baa6a48682873a18c42f9cd989d174f1bc0ebb3126a30d523e36950e",
   "staged_versions": [
     {
-      "version": "3.2",
-      "date": "2026-10-21 15:40:25",
-      "signature": "da79129908394da4384d44b099e43a0d900f50f63d5c064bb2e97d37906f7cb1",
-      "size_mb": 35.66,
-      "changelog": "",
-      "hash": "f28e469d54bda492e6f8df9320301c906a10b5b41bbbe28ac5d2a53ab3277b64",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.2/Newrark_Setup.exe"
-    },
-    {
       "version": "3.3",
       "date": "2026-10-21 21:13:32",
       "signature": "da79129908394da4384d44b099e43a0d900f50f63d5c064bb2e97d37906f7cb1",
@@ -53,6 +44,6 @@
     }
   ],
   "signature": "Zax08L8u5ZeGPp1QMVHT8PQJB4uie8IzhbvLGtzsngEeoz9yao5fwQMZQLp59poFdILzHwKIXBSELFCouF2nAg==",
-  "manifest_sig": "V+ndW/o+yMgSGQ9jQ8xIurvREk95V3J7XVKLJcS67XZaZwq4+D66ujFAKmrzAWVRlIIWJUbICb+ALQMSxVfUAQ==",
+  "manifest_sig": "lCER9KLH5ejHhpsFpRvNdnpbvEJZtDaRmWpfUww+VwG8T9osWUfF1eTbquqFzkoVcNgV9hb/hd5az07gPH86Dw==",
   "signature_version": "ed25519-v1"
 }
