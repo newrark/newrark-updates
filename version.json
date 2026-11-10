@@ -1,33 +1,35 @@
 {
-  "url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/Newrark_Setup.exe",
-  "version": "3.5",
-  "hash": "af3b7bf5baa6a48682873a18c42f9cd989d174f1bc0ebb3126a30d523e36950e",
-  "release_date": "2026-11-08",
   "changelog": "nada",
+  "size_mb": 92.57,
+  "url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/Newrark_Setup_2-revised-20261109142609.exe",
+  "version": "3.5",
+  "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/Newrark_Setup_2-revised-20261109142609.exe",
+  "hash": "1a9276448fcb775e589e115c3e17d9a42963dd2fa723e892204fd0b654ebf8d0",
   "staged_versions": [
     {
+      "changelog": "nada",
+      "size_mb": 92.57,
       "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/Newrark_Setup_2-revised-20261109142609.exe",
-      "date": "2026-11-08 16:53:06",
+      "version": "3.5",
+      "signature": "hdUsBILpOW/5wJPjBf6izwJ6wIMxEoRcbyhEMJBKYuiYrI/yT2IKT2pybXmwSKBkMaoqdUpsD45dccCCguPxDw==",
       "hash": "1a9276448fcb775e589e115c3e17d9a42963dd2fa723e892204fd0b654ebf8d0",
       "installer_changed_at": "2026-11-09 14:26:43",
-      "size_mb": 92.57,
-      "version": "3.5",
-      "changelog": "nada",
-      "signature": "hdUsBILpOW/5wJPjBf6izwJ6wIMxEoRcbyhEMJBKYuiYrI/yT2IKT2pybXmwSKBkMaoqdUpsD45dccCCguPxDw=="
+      "date": "2026-11-08 16:53:06"
     },
     {
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.6/Newrark_Setup_2-revised-20261109142719.exe",
-      "date": "2026-11-08 17:53:48",
-      "hash": "1a9276448fcb775e589e115c3e17d9a42963dd2fa723e892204fd0b654ebf8d0",
-      "release_date": "2026-11-08",
-      "installer_changed_at": "2026-11-09 14:27:53",
-      "size_mb": 92.57,
-      "version": "3.6",
       "changelog": "lkjl",
-      "signature": "0SALOVT1Q6AWpMwVy0HJO6zZlhlAXNio3NIKPzAmbjIMLiCEq2Genf8YrRLr0kFdxk3rs2NWFmp5zUJUZZL6BA=="
+      "size_mb": 92.57,
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.6/Newrark_Setup_2-revised-20261109142719.exe",
+      "version": "3.6",
+      "signature": "0SALOVT1Q6AWpMwVy0HJO6zZlhlAXNio3NIKPzAmbjIMLiCEq2Genf8YrRLr0kFdxk3rs2NWFmp5zUJUZZL6BA==",
+      "hash": "1a9276448fcb775e589e115c3e17d9a42963dd2fa723e892204fd0b654ebf8d0",
+      "installer_changed_at": "2026-11-09 14:27:53",
+      "release_date": "2026-11-08",
+      "date": "2026-11-08 17:53:48"
     }
   ],
-  "signature": "Zax08L8u5ZeGPp1QMVHT8PQJB4uie8IzhbvLGtzsngEeoz9yao5fwQMZQLp59poFdILzHwKIXBSELFCouF2nAg==",
-  "manifest_sig": "MZyfK8dafJyBZ/OItJtH5xEe495AW8FuJ5+WTD9xOOj2gVb5uOqHR/SozWNZd5Q21yZDT7uATCUFv5k0rw0SDA==",
+  "release_date": "2026-11-08",
+  "signature": "hdUsBILpOW/5wJPjBf6izwJ6wIMxEoRcbyhEMJBKYuiYrI/yT2IKT2pybXmwSKBkMaoqdUpsD45dccCCguPxDw==",
+  "manifest_sig": "s9vRy5hcuAbzWix+Jg4AFBv60pUQmh+w2MkzGO7UuGRzlOFzBUpa5cYXSsZtIcZ4XtOLFnmYFfydJoHG1oedCw==",
   "signature_version": "ed25519-v1"
 }
