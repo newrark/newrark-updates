@@ -1,34 +1,34 @@
 {
   "url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/ChromeSetup-revised-20261110010047.exe",
-  "hash": "3fdbdfe55ab23af991286f40101ea654aea8a15bc5d39424b857dc74711f3db9",
-  "changelog": "nada",
-  "release_date": "2026-11-08",
-  "version": "3.5",
-  "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/ChromeSetup-revised-20261110010047.exe",
+  "size_mb": 12.67,
   "staged_versions": [
     {
-      "hash": "3fdbdfe55ab23af991286f40101ea654aea8a15bc5d39424b857dc74711f3db9",
-      "changelog": "nada",
-      "version": "3.5",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/ChromeSetup-revised-20261110010047.exe",
       "installer_changed_at": "2026-11-10 01:00:52",
-      "size_mb": 12.67,
       "date": "2026-11-08 16:53:06",
-      "signature": "BzFWIlKpZXqL3bOlc5TWH+dxq/b6byZHkB6aEexTXLNVdTUOs8QpmZrT5pwSxowEpIWOzSf2XE6SK68TMhQ9Bg=="
+      "size_mb": 12.67,
+      "signature": "BzFWIlKpZXqL3bOlc5TWH+dxq/b6byZHkB6aEexTXLNVdTUOs8QpmZrT5pwSxowEpIWOzSf2XE6SK68TMhQ9Bg==",
+      "hash": "3fdbdfe55ab23af991286f40101ea654aea8a15bc5d39424b857dc74711f3db9",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/ChromeSetup-revised-20261110010047.exe",
+      "changelog": "nada",
+      "version": "3.5"
     },
     {
-      "hash": "3fdbdfe55ab23af991286f40101ea654aea8a15bc5d39424b857dc74711f3db9",
-      "changelog": "lkjl",
-      "release_date": "2026-11-08",
-      "version": "3.6",
-      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.6/ChromeSetup-revised-20261110010108.exe",
       "installer_changed_at": "2026-11-10 01:01:12",
-      "size_mb": 12.67,
       "date": "2026-11-08 17:53:48",
-      "signature": "UE99zhAND0iMn9uBL0snfoUGTHisW3zbPXjWayMxP5BHgxlKGp1vd7CKTYttWitT6igZZwDd6VAQ3gPb2aUXDg=="
+      "size_mb": 12.67,
+      "signature": "UE99zhAND0iMn9uBL0snfoUGTHisW3zbPXjWayMxP5BHgxlKGp1vd7CKTYttWitT6igZZwDd6VAQ3gPb2aUXDg==",
+      "hash": "3fdbdfe55ab23af991286f40101ea654aea8a15bc5d39424b857dc74711f3db9",
+      "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.6/ChromeSetup-revised-20261110010108.exe",
+      "release_date": "2026-11-08",
+      "changelog": "lkjl",
+      "version": "3.6"
     }
   ],
-  "size_mb": 12.67,
+  "hash": "3fdbdfe55ab23af991286f40101ea654aea8a15bc5d39424b857dc74711f3db9",
+  "download_url": "https://github.com/newrark/newrark-updates/releases/download/v3.5/ChromeSetup-revised-20261110010047.exe",
+  "release_date": "2026-11-08",
+  "changelog": "nada",
+  "version": "3.5",
   "signature": "BzFWIlKpZXqL3bOlc5TWH+dxq/b6byZHkB6aEexTXLNVdTUOs8QpmZrT5pwSxowEpIWOzSf2XE6SK68TMhQ9Bg==",
   "manifest_sig": "MJ4VUxe5iI53VZP0K0Ja4lvevi3ENr9lPb7rQYerSIsUoZirg7ueFHUqFiOvwWMDbQe4wX9b6+tijPaNfXUQCg==",
   "signature_version": "ed25519-v1"
